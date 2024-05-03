@@ -1,0 +1,49 @@
+.header1 {
+    font-weight: bolder;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rosybrown;
+}
+
+#mainbody {
+
+    background-color: bisque;
+}
+
+body {
+   color: orangered;
+   background-color: antiquewhite;
+}
+
+p {
+    color: peru;
+    font-style: italic;
+
+}
+
+img {
+    align-self: auto;
+    
+}
+
+#mainIMG {
+    height: auto;
+    width: 400px;
+}
+
+#mainH2 {
+    font-weight: bold;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainUL {
+    font-style: italic;
+    font-size: 14px;
+
+}
+
+li {
+    color: brown;
+
+}
