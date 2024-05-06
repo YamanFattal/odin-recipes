@@ -3,6 +3,7 @@
     color: orange;
     font-family: 'Times New Roman', Times, serif;
     background-color: rosybrown;
+    text-align: center;
 }
 
 #mainbody {
@@ -21,9 +22,10 @@ p {
 
 }
 
-img {
-    align-self: auto;
-    
+.center {
+
+    display: block;
+    margin: auto;
 }
 
 #mainIMG {
@@ -46,4 +48,13 @@ img {
 li {
     color: brown;
 
+}
+
+.container {
+    height: fit-content;
+    width: fit-content;
+    padding: 16px;
+    background-color: orangered;
+    border: 3px solid brown;
+    display: flex;
 }
